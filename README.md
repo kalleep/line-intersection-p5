@@ -1,2 +1,2 @@
-# Raycasting with p5.js
-Super simple project to understand raycasting better
+# Line to line intersection with p5.js
+Super simple project to understand line to line intersection better
